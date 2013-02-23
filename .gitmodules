@@ -1,3 +1,6 @@
 [submodule "SFML"]
 	path = SFML
 	url = https://github.com/LaurentGomila/SFML.git
+[submodule "spine-runtimes"]
+	path = spine-runtimes
+	url = https://github.com/martell/spine-runtimes.git
